@@ -7,7 +7,7 @@ pkg install python
 
 pkg install python2
 
-Pkg install bash
+pkg install bash
 
 pkg install git
 
