@@ -19,6 +19,6 @@ pip install colorama bs4 requests pyfiglet tqdm
 
 pip2 install colorama bs4 requests pyfiglet tqdm
 
-python main.py
+python spam.py
 
 Joss yes yes yes
